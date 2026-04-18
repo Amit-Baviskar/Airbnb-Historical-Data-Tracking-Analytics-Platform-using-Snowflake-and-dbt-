@@ -57,7 +57,7 @@ The pipeline processes Airbnb listings, bookings, and hosts data through a **med
 ### Medallion Architecture
 
 
-   - ### 🥉 Bronze Layer (Raw Data)
+## 🥉 Bronze Layer (Raw Data)
 
 
 #### *Raw data ingested from staging with minimal transformations:*
@@ -70,7 +70,7 @@ The pipeline processes Airbnb listings, bookings, and hosts data through a **med
 
 
 
-   - ### 🥈 Silver Layer (Cleaned Data)
+## 🥈 Silver Layer (Cleaned Data)
 
      
 #### *Cleaned and standardized data*:
@@ -83,7 +83,7 @@ The pipeline processes Airbnb listings, bookings, and hosts data through a **med
 
 
 
-   - ### 🥇 Gold Layer (Analytics-Ready)
+## 🥇 Gold Layer (Analytics-Ready)
 
      
 #### *Business-ready datasets optimized for analytics*:
